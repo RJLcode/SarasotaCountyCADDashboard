@@ -1,6 +1,6 @@
 /*
  * Sarasota County CAD Dashboard — Cloudflare Worker
- * Copyright (c) 2026 RLeone37 (https://github.com/RLeone37). All rights reserved.
+ * Copyright (c) 2026 RJLcode (https://github.com/RJLcode). All rights reserved.
  * Proprietary and confidential — NOT open source. No part of this source code,
  * data, design, or documentation may be copied, modified, distributed, or used
  * in any form without explicit written permission. See the LICENSE file.

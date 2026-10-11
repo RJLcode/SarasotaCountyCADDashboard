@@ -103,6 +103,6 @@ The Cloudflare free tier allows 100,000 requests per day, which is well within r
 
 ## License
 
-Copyright © 2026 RLeone37 (https://github.com/RLeone37). All rights reserved.
+Copyright © 2026 RJLcode (https://github.com/RJLcode). All rights reserved.
 
 This project is **proprietary and not open source**. No part of the source code, data, design, or documentation may be copied, modified, distributed, or used without explicit written permission. See [LICENSE](LICENSE) for the full terms.
